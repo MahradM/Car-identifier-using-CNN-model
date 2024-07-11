@@ -19,5 +19,4 @@ This project aims to develop a Convolutional Neural Network (CNN) model to ident
 3. **Geometric_Transformations_.ipynb**: Jupyter notebook focused on manual geometric transformations for data augmentation.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at mahrad.maleki0382@gmail.com.# Car-identifier-using-CNN-model
-# Car-identifier-using-CNN-model
+If you have any questions or suggestions, feel free to contact me at mahrad.maleki0382@gmail.com.
